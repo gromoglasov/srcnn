@@ -10,7 +10,7 @@ I have supplied a few functions to visulise the weights of the model (kernels) a
 
 - model - you can find the preon trained model, model is trained on a single colour channel, and hence expects this as as in input
 - srcnn.py - here I initialise the network, and test it on image supplied in "image" directory
-- outputs - self explanatory, you check the results obtained in here
+- outputs - self explanatory, you can check the results obtained in here
 
 The project is using Python 3.5.
 
