@@ -20,19 +20,19 @@ The project is using Python 3.5.
 
 - Filter Sizes: 9 - 1 - 5, as in the original paper
 
-- Learning rate is 10^−4 for the first two layers, and 10^−5 for the last layer, according to authors benchmark
+- Learning rate is 10^−4 for the first two layers, and 10^−5 for the last layer, according to the authors' benchmark
 
 ## List of Dependencies:
 
-- MatPlotLib
+- MatPlotLib - for visualisation
 
-- NumPy
+- NumPy - for everything, its NumPy
 
-- Tensorflow
+- Tensorflow - network built
 
-- Scipy
+- Scipy - for image processing
 
-- Scikit-image
+- Scikit-image - computing PSNR
 
 
 **NOT JUPYTER NOTEBOOK**
